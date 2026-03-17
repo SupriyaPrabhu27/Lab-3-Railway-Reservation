@@ -1,5 +1,6 @@
 # Lab-3-Railway-Reservation
 
+
 ### AIM:
 To develop the Railway Reservation System using Star UML tool.
 ### PROBLEM STATEMENT:
@@ -18,6 +19,28 @@ phones.
 of the online bus ticket system is to provide another way for transnational customers to buy
 their tickets.
 ### UML DIAGRAMS:
+
+## USECASE DIAGRAM:
+
+<img width="1221" height="880" alt="379092648-d2f507e3-51fc-4e22-9648-2afff0ee032f" src="https://github.com/user-attachments/assets/a7027207-bee1-4906-8ef8-435ae13732ad" />
+
+
+## CLASS DIAGRAM:
+
+<img width="1218" height="875" alt="379092686-37b3eb07-4891-436c-ad0f-fd9865290718" src="https://github.com/user-attachments/assets/a1dfbe97-f6b4-4079-a3c6-0db2fb948e04" />
+
+## SEQUENCE DIAGRAM:
+
+<img width="1226" height="890" alt="379092738-f206d96f-44b4-4013-9d68-88ad94a73fdd" src="https://github.com/user-attachments/assets/531de1a6-8074-418d-9d14-120dec9914eb" />
+
+## ACTIVITY DIAGRAM:
+<img width="1222" height="886" alt="379092769-b7b369af-e0a4-4bf4-9c73-c416a03635a0" src="https://github.com/user-attachments/assets/a7afc45f-9b5c-4fe6-afcd-bd40dd7bb27b" />
+
+## PACKAGE DIAGRAM:
+<img width="1228" height="883" alt="379092801-d18ebfd8-c193-4c71-9779-aba574490c2a" src="https://github.com/user-attachments/assets/1da40fdd-ad1f-4f53-9eb9-9c0e377444fc" />
+
+## COMMUNICATION DIAGRAM:
+<img width="1226" height="878" alt="379092834-c892649b-dc00-44f1-8c82-441f23d77637" src="https://github.com/user-attachments/assets/940f777d-aaa8-475c-aad4-39cab0fb46a6" />
 
 
 
